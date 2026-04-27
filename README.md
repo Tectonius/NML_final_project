@@ -2,7 +2,7 @@
 
 Unsupervised categorization of breast cancer patients using Self-Organizing Maps (SOMs) trained on multi-omics METABRIC data.
 
-https://github.com/Tectonius/NML\_final\_project
+https://github.com/Tectonius/NML_final_project
 
 ## Overview
 
